@@ -1,7 +1,9 @@
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats-kappa-green-14.vercel.app/api?username=ethanzhang87&show_icons=false&theme=dark&include_all_commits=true&hide_rank=true)
+<!--START_SECTION:stats-->
+<!--END_SECTION:stats-->
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats-kappa-green-14.vercel.app/api/top-langs/?username=ethanzhang87&layout=compact&theme=dark&langs_count=10)
+<!--START_SECTION:langs-->
+<!--END_SECTION:langs-->
